@@ -1,0 +1,61 @@
+body {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+h3 {
+  color: blue;
+  text-align: center;
+}
+
+li {
+  text-align: center;
+  font-size: 12px;
+  list-style-type: none;
+  float: left;
+  padding-right: 1em;
+  border: none;
+  border-width: .25px;
+  width: 14%;
+  background-color: #FFC966;
+}
+
+.apptText {
+  font-size: 14px;
+  padding-left: 1em;
+}
+
+.weekday {
+  text-align: left;
+  background-color: #e6f7ff;
+  height: 55px;
+  color: black;
+  font-weight: bold;
+}
+
+.emptyDay {
+  background-color: lightgrey;
+  height: 55px;
+}
+
+.btn-form {
+  margin-top: 1em;
+  margin-right: 0.5em;
+  box-shadow: 2px 2px #888888;
+}
+
+.btn-danger {
+  margin-left: 1em;
+}
+
+h5 {
+  color: green;
+  margin-top: 1em;
+}
+
+.Appointment {
+  border: solid;
+  border-radius: 5px;
+  border-width: 1px;
+  font-size: 21px;
+  margin-right: 1em;
+}
